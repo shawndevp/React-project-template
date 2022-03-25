@@ -4,6 +4,12 @@ This project was implemented with latest react-router-dom (V5) && node-sass (7.0
 
 ## Available Scripts
 
+Before npm start it's MANDATORY to open 'React-project-template' in terminal and run these:
+
+### `npm i node-modules`
+### `npm i node-sass`
+### `npm i react-router-dom`
+
 In the project directory, you can run:
 
 ### `npm start`
