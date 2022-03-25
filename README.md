@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was implemented with latest react-router-dom (V5) && node-sass (7.0.1) && node-modules (1.0.1) [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start). [node-sass] (https://www.npmjs.com/package/node-sass). [node-modules] (https://www.npmjs.com/package/node-modules). 
 
 ## Available Scripts
 

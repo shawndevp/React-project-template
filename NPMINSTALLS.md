@@ -2,6 +2,7 @@
 
 
 ### MANDATORY
+npm i node-modules
 npm i node-sass
 npm i react-router-dom
 
