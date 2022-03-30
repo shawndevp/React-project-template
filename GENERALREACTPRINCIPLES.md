@@ -54,6 +54,16 @@
 
 </code>
 
+<code>
+
+FORCE UPDATE!!
+
+  const [, updateState] = useState();
+  const forceUpdate = useCallback(() => updateState({}), []);
+
+  forceupdate();
+
+</code>
 
 ######
 
