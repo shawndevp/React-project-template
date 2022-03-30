@@ -65,6 +65,13 @@ import useReducer
       forceupdate();
   }
 
+  or just simple usestate
+
+  const [rerender, setRerender] = useState(false);
+
+...
+setRerender(!rerender);     //whenever you want to re-render
+
 </code>
 
 ######
