@@ -58,10 +58,12 @@
 
 FORCE UPDATE!!
 
-  const [, updateState] = useState();
-  const forceUpdate = useCallback(() => updateState({}), []);
+import useReducer
 
-  forceupdate();
+    const [, forceUpdate] = useReducer(x => x + 1, 0);
+  function handleClick(){
+      forceupdate();
+  }
 
 </code>
 
